@@ -8,7 +8,7 @@
 
 **Academic Discipline:** Bachelor of Science in Statistics and Data Science
 
-**Date:** March 24, 2026
+
 
 *"Leveraging data-driven methodologies to detect and mitigate financial fraud in mobile money transactions."*
 
