@@ -16,10 +16,6 @@ K. M. MWANIKI
 
 ---
 
-## Acknowledgment
-
-I thank the Department of Statistics and Data Science at Strathmore University for their support during this research.
-
 **Kimberly Muthoni Mwaniki**
 BSc. Statistics and Data Science
 Strathmore University
