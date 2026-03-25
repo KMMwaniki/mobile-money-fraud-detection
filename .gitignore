@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.csv
+*.zip
+venv/
+env/
+.DS_Store
+fraud_model.pkl
