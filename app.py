@@ -175,7 +175,7 @@ with tab3:
 **Author:** Kimberly Muthoni Mwaniki  
 **Affiliation:** Strathmore University  
 **Academic Discipline:** Bachelor of Science in Statistics and Data Science  
-**Date:** March 24, 2026  
+ 
 
 *"Leveraging data-driven methodologies to detect and mitigate financial fraud in mobile money transactions."*
 
@@ -183,9 +183,6 @@ K. M. MWANIKI
 
 ---
 
-## Acknowledgment
-
-I thank the Department of Statistics and Data Science at Strathmore University for their support.
 
 **Kimberly Muthoni Mwaniki**  
 BSc. Statistics and Data Science  
